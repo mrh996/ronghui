@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD in Lancaster University. I am intrested in the safety testing on Deep Neural Network and its application on safety-critical autonomous system like self-driving system.
+I am a PhD in Lancaster University. I am intrested in the safety testing on Deep Neural Network and its application on safety-critical autonomous system like self-driving system.\\
+My supervisors are Dr. Wenjie Ruan and Dr. Gerald Kotonya
 
 
