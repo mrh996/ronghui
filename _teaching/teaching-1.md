@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "teaching assistance"
-permalink: /cv/
+permalink: /teaching/
 author_profile: true
 redirect_from:
   - /resume
