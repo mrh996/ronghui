@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD in Lancaster University. I am intrested in the safety testing on Deep Neural Network and its application on safety-critical autonomous system like self-driving system.\\
-My supervisors are Dr. Wenjie Ruan from Exeter University and Dr. Leandro Soriano Marcolino from Lancaster University
+I am a PhD in Lancaster University. I am intrested in the the improvement of rubstness of Deep Neural Network, which includes safety testing for the DNN , adversarial attack on images and videos, and verification. \\
+My supervisors are Dr. Wenjie Ruan from Exeter University and Dr. Leandro Soriano Marcolino and Prof. Qiang Ni from Lancaster University
 
 
