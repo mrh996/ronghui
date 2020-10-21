@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Teaching"
-permalink: /TA/
+title: "Teaching Assistant"
+permalink: /teaching/
 author_profile: true
 --- 
 
@@ -11,9 +11,6 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-Teaching Assistant
-======
-* Oct.2020- Feb.2021 Lancaster University: Software Design Studio Project I
 
-* Nov.2020 -Feb.2021 Lancaster University: Programming for Data Science
+
   
