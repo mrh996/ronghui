@@ -1,4 +1,13 @@
+---
+layout: archive
+title: "teaching assistance"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
 
+{% include base_path %}
 
 * Oct.2020- Feb.2021 Lancaster University: Software Design Studio Project I
 
