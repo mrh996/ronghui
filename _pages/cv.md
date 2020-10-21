@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* Oct.- Dec.: Algorithm Engineer
+* Oct.- Dec.2019: Algorithm Engineer
   * Opera News, Beijing
   * Duties included: Recommadation system
  
@@ -29,5 +29,7 @@ Skills
 ======
 * Python
 * C Program
+* Matlab
+* R
  
 
