@@ -5,7 +5,7 @@ main:
     url: /cv/
   - title: "Acsdemia Services "
     url: /review/
-  - - title: "Teaching "
+  - title: "Teaching "
     url: /teaching/
   - title: "Publications"
     url: /publications/
