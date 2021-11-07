@@ -20,7 +20,7 @@ Work experience
 ======
 * Oct.- Dec.2019: Algorithm Engineer
   * Opera News, Beijing
-  * Duties included: Recommadation system
+  * Duties included: Build the Transfer model which is based on attention algorithm for the news recommend system.
  
 
 
