@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ronghui Mu"
-  avatar           : "https://github.com/mrh996/ronghui/blob/master/images/IMG_2608.JPG"#"profile.png"
+  avatar           : "IMG_2608.JPG"
   bio              : "PhD student at Lancaster University subject in Computer Science"
   location         : "Lancaster,UK"
   employer         :
