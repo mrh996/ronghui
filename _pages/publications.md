@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Sparse Adversarial VideoAttacks with Spatial Transformations"
+permalink: /In preceeding of The 32nd British Machine Vision Conference (BMVC)/
 author_profile: true
 ---
 
