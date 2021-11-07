@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* **Ph.D in Computer Science, *Lancaster University* ,2020 - **
+* **Ph.D in Computer Science, *Lancaster University* ,2020 -**
 * **M.S. in Machine Learning and Data Science, *University College of London (UCL)*, 2018 - 2019**
   * Merit
   * Thesis title: Distinguish the transgenic mice and select the most important genes related to Alzheimer’s Disease.
