@@ -12,5 +12,4 @@ author_profile: true
 * ECML 2020
 * NeurIPS 2020
 * ICCV 2021
-* BMVC 2021
 * NeurIPS 2021
