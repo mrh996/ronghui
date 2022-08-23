@@ -14,8 +14,7 @@ My supervisors are Dr. Wenjie Ruan from Exeter University and Dr. Leandro Sorian
 Research Aims:
 ======
 * My research vision is to improve the robustness of deep learning systems.
-* My research focuses on the safety testing of deep learning networks for the safety-critical system, the adversarial attacks with its defenses and verification robustness.
-
+* My research focuses on the safety testing of deep learning networks for the safety-critical system, the adversarial attacks with its defenses and verification robustness
 
 
 
