@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Lancaster University. I am interested in the the improvement of robustness of Deep Neural Network, which includes safety testing for the DNN , adversarial attack on images and videos, and robustness verification.  \\
+I am a PDRA in University of Liverpool. I am interested in the the improvement of robustness of Deep Neural Network, which includes safety testing for the DNN, adversarial attack on images and videos, and robustness verification for point cloud models and reinforcement learning systems.  \\
 My supervisors are Dr. Wenjie Ruan from Exeter University and Dr. Leandro Soriano Marcolino and Prof. Qiang Ni from Lancaster University
 
 Research Aims:
