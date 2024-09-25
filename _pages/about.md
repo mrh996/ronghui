@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PDRA in University of Liverpool and TACPS Lab under Prof. Xiaowei Huang. I am interested in the the improvement of robustness of Deep Neural Network, which includes safety testing for the DNN, adversarial attack on images and videos, and robustness verification for point cloud models and reinforcement learning systems.  \\
-I obtained my PhD in Lancaster University, supervised by Dr. Wenjie Ruan from Exeter University and Dr. Leandro Soriano Marcolino and Prof. Qiang Ni from Lancaster University
+I am a Lecturer (Assistant Professor) in the department of Computer Science at the University of Exeter. Prior to this I work as a PDRA at the University of Liverpool's Trustworthy Autonomous Cyber Physical Systems (TACPS) Lab. I obtained my PhD in artificatial inteligence at Lancaster University, supervised by Dr. Wenjie Ruan, Dr. Leandro Soriano Marcolino and Prof. Qiang Ni. My research focused on evaluation the robustness of Deep Neural Network, which includes safety testing for the DNN, adversarial attack, and robustness verification. I have conducted work on the robustness analysis of DNNs include image classifiers, videos recognisation models, 3D point cloud models, reinforcement learning, and large language models (LLMs).
 
 Research Aims:
 ======
