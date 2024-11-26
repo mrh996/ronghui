@@ -17,9 +17,9 @@ Research Aims:
 
 **I am currently recruiting new PhD candidates with interests in some of the following areas:**
 
-Safe, Secure and Explainable AI
-Probabilistic Verification
-Reinforcement Learning 
+* Safe, Secure and Explainable AI
+* Probabilistic Verification
+* Reinforcement Learning, NLP and Computer Vision
 
 Funding opportunities for students/researchers
 ======
