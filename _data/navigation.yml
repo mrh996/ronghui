@@ -1,10 +1,5 @@
 # main links links
 main:
-    
-  - title: "CV"
-    url: /cv/
-  - title: "Academia Services "
-    url: /review/
   - title: "Teaching "
     url: /teaching/
   - title: "Publications"
