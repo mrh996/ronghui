@@ -15,6 +15,10 @@ Research Aims:
 * My research vision is to improve the robustness of deep learning systems.
 * My research focuses on the safety testing of deep learning networks for the safety-critical system, the adversarial attacks with its defenses and verification robustness
 
+Funding opportunities for students/researchers
+======
+* [China Scholarship Council and University of Exeter PhD Scholarships](https://www.exeter.ac.uk/study/pg-research/csc-scholarships/)
+* [EPSRC Funded PhD Studentships (Home and International Students)](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/epsrc-dtp-studentships/) [Project detail](https://www.exeter.ac.uk/v8media/recruitmentsites/documents/Robustness_Evaluation_in_Reinforcement_Learning_(Dr_Rohghui_Mu).pdf)
 
 
 
