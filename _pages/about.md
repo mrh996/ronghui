@@ -21,6 +21,9 @@ Research Aims:
 * Probabilistic Verification
 * Reinforcement Learning, NLP and Computer Vision
 
+
+If you are interrested, please contact me by [email]<carolinemu96@yahoo.com>
+
 Funding opportunities for students/researchers
 ======
 * I am glad to take students funded by CSC [China Scholarship Council and University of Exeter PhD Scholarships](https://www.exeter.ac.uk/study/pg-research/csc-scholarships/)
