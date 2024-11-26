@@ -22,7 +22,7 @@ Research Aims:
 * Reinforcement Learning, NLP and Computer Vision
 
 
-If you are interrested, please contact me by [email]<carolinemu96@yahoo.com>
+If you are interrested, please contact me by [email](carolinemu96@yahoo.com)
 
 Funding opportunities for students/researchers
 ======
