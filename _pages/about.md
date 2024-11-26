@@ -15,6 +15,12 @@ Research Aims:
 * My research vision is to improve the robustness of deep learning systems.
 * My research focuses on the safety testing of deep learning networks for the safety-critical system, the adversarial attacks with its defenses and verification robustness
 
+**I am currently recruiting new PhD candidates with interests in some of the following areas:**
+
+Safe, Secure and Explainable AI
+Probabilistic Verification
+Reinforcement Learning 
+
 Funding opportunities for students/researchers
 ======
 * I am glad to take students funded by CSC [China Scholarship Council and University of Exeter PhD Scholarships](https://www.exeter.ac.uk/study/pg-research/csc-scholarships/)
