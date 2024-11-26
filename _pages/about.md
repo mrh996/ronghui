@@ -17,7 +17,7 @@ Research Aims:
 
 Funding opportunities for students/researchers
 ======
-* [China Scholarship Council and University of Exeter PhD Scholarships](https://www.exeter.ac.uk/study/pg-research/csc-scholarships/)
+* I am glad to take students funded by CSC [China Scholarship Council and University of Exeter PhD Scholarships](https://www.exeter.ac.uk/study/pg-research/csc-scholarships/)
 * [EPSRC Funded PhD Studentships (Home and International Students)](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/epsrc-dtp-studentships/) [Project detail](https://www.exeter.ac.uk/v8media/recruitmentsites/documents/Robustness_Evaluation_in_Reinforcement_Learning_(Dr_Rohghui_Mu).pdf)
 
 
