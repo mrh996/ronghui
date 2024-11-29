@@ -11,7 +11,7 @@ author_profile: true
 **Projects as a Co-Investigator**
 
 * **CRoCS**: Certified Robust and Scalable Autonomous Operation in Cyber Space. Dec. 2023-Dec. 2024
-  -Funded by Alan Turing Institute (The AI for Cyber Defence (AICD) Research Centre), £80K
+  * Funded by Alan Turing Institute (The AI for Cyber Defence (AICD) Research Centre), £80K
   
 * **Safeguarding LLMs** Dec. 2023- Jun. 2024 Funded by Alan Turing Institute
 
