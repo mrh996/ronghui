@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Project"
+title: "project"
 permalink: /project/
 author_profile: true
 
@@ -9,8 +9,10 @@ author_profile: true
 {% include base_path %}
 
 **Projects as a Co-Investigator**
+
 * **CRoCS**: Certified Robust and Scalable Autonomous Operation in Cyber Space. Dec. 2023-Dec. 2024
   -Funded by Alan Turing Institute (The AI for Cyber Defence (AICD) Research Centre), £80K
+  
 * **Safeguarding LLMs** Dec. 2023- Jun. 2024 Funded by Alan Turing Institute
 
 **Projects as a researcher (PDRA/PhD)**
