@@ -46,17 +46,18 @@ I am currently recruiting **new PhD candidates** with interests in the following
 ## 💡 Funding Opportunities for Students/Researchers
 - [CSC–University of Exeter PhD Scholarships](https://www.exeter.ac.uk/study/pg-research/csc-scholarships/)  
 - [EPSRC Funded PhD Studentships (Home & International)](https://www.exeter.ac.uk/study/pg-research/funding/phdfunding/epsrc-dtp-studentships/)  
-  - [Project detail](https://www.exeter.ac.uk/v8media/recruitmentsites/documents/Robustness_Evaluation_in_Reinforcement_Learning_(Dr_Rohghui_Mu).pdf)  
-
+  - [Project detail](https://www.exeter.ac.uk/v8media/recruitmentsites/documents/Robustness_Evaluation_in_Reinforcement_Learning_(Dr_Rohghui_Mu).pdf)
+  
 ---
+
 ## 📰 News & Updates
 - **Sep 2025** – Awarded the **Individual Research Grant** from the **Royal Society**.  
-- **Aug 2025** – Congratulations to my PhD student *Zixia Wang*, whose paper *“Safety of Embodied Navigation: A Survey”* was accepted at *IJCAI 2025*.
-- **Aug 2025**- Our survey *"Safeguarding Large Language Models: A Survey"* is accepted by the Artificial Intelligence Review.  
-- **Apr 2025**- A paper got accepted by IEEE TIFS good job by the co-authors.
-- **Jan 2025**- A paper got accepted by ICLR good job by the co-authors.
-- **Aug 2024**- Start my position as a Lecturer (Assistant Professor) at the University of Exeter.
-  
+- **Aug 2025** – Congratulations to my PhD student *Zixia Wang*: *“Safety of Embodied Navigation: A Survey”* accepted at *IJCAI 2025*.  
+- **Aug 2025** – Our survey *“Safeguarding Large Language Models: A Survey”* accepted by *Artificial Intelligence Review*.  
+- **Apr 2025** – Paper accepted by *IEEE TIFS*. Kudos to all co-authors.  
+- **Jan 2025** – Paper accepted by *ICLR*. Kudos to all co-authors.  
+- **Aug 2024** – Started my position as **Lecturer (Assistant Professor)** at the University of Exeter.  
+
 ---
 
 ## 🔬 Research Grants
