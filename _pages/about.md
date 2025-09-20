@@ -33,8 +33,8 @@ I have conducted robustness analysis across multiple modalities: image classifie
 - **Sep 2025** – Awarded the Individual Research Grant from the Royal Society.  
 - **Aug 2025** – Congratulations to my PhD student *Zixia Wang*: *“Safety of Embodied Navigation: A Survey”* accepted at *IJCAI 2025*.  
 - **Aug 2025** – Our survey *“Safeguarding Large Language Models: A Survey”* accepted by *Artificial Intelligence Review*.  
-- **Apr 2025** – Paper accepted by *IEEE TIFS*. Kudos to all co-authors.  
-- **Jan 2025** – Paper accepted by *ICLR*. Kudos to all co-authors.  
+- **Apr 2025** – Paper accepted by *IEEE TIFS*. Congrats to all co-authors.  
+- **Jan 2025** – Paper accepted by *ICLR*. Congrats to all co-authors.  
 - **Aug 2024** – Started my position as Lecturer (Assistant Professor) at the University of Exeter.  
 
 ---
