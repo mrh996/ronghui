@@ -3,9 +3,6 @@ main:
 
   - title: "CV"
     url: /cv/
-  - title: "Acsdemia Services "
-  - title: "Academia Services "
-    url: /review/
   - title: "Teaching "
     url: /teaching/
 
