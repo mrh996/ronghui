@@ -61,8 +61,8 @@ I am currently recruiting **new PhD candidates** with interests in the following
 
 ## 🔬 Research Grants
 - **Certifying Robustness in Large Language Models** *(PI)*  
-  *Royal Society, Oct 2025 – Oct 2026, £30K*  
-
+  *Royal Society, Oct 2025 – Oct 2026, £30K*
+  
 - **CRoCS: Certified Robust and Scalable Autonomous Operation in Cyber Space** *(Co-I)*  
   *Alan Turing Institute (AICD Centre), Dec 2023 – Dec 2024, £80K*  
 
