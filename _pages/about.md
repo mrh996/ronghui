@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "👨‍🏫 About Me"
 layout: single
 author_profile: true
 excerpt: "About Me"
@@ -9,20 +9,13 @@ redirect_from:
   - /about.html
 ---
 
-## 👨‍🏫 About Me
-I am a **Lecturer (Assistant Professor)** in the Department of Computer Science at the **University of Exeter**.  
-
-Previously, I worked as a **Postdoctoral Research Associate** in the *Trustworthy Autonomous Cyber-Physical Systems (TACPS) Lab* at the University of Liverpool, supervised by **Prof. Xiaowei Huang**.  
-
-I obtained my **PhD in Artificial Intelligence** at Lancaster University, supervised by **Dr. Wenjie Ruan, Dr. Leandro Soriano Marcolino, and Prof. Qiang Ni**.  
+I am a **Lecturer (Assistant Professor)** in the Department of Computer Science at the **University of Exeter**. Previously, I worked as a **Postdoctoral Research Associate** in the *Trustworthy Autonomous Cyber-Physical Systems (TACPS) Lab* at the University of Liverpool, supervised by Prof. Xiaowei Huang. I obtained my **PhD in Artificial Intelligence** at Lancaster University, supervised by Dr. Wenjie Ruan, Dr. Leandro Soriano Marcolino, and Prof. Qiang Ni.  
 
 My research focuses on the **robustness evaluation of Deep Neural Networks (DNNs)**, including:  
 - Safety testing for safety-critical systems  
 - Adversarial attacks and defenses  
 - Robustness verification  
-
 I have conducted robustness analysis across multiple modalities: **image classifiers, video recognition models, 3D point cloud models, reinforcement learning**, and **large language models (LLMs)**.
-
 ---
 
 ## 🎯 Research Aims
@@ -40,7 +33,6 @@ I am currently recruiting **new PhD candidates** with interests in the following
 
 📧 If you are interested, please [contact me via email](mailto:carolinemu96@yahoo.com).
 
----
 
 ## 💡 Funding Opportunities for Students/Researchers
 - [CSC–University of Exeter PhD Scholarships](https://www.exeter.ac.uk/study/pg-research/csc-scholarships/)  
