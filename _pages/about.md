@@ -9,19 +9,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a **Lecturer (Assistant Professor)** in the Department of Computer Science at the **University of Exeter**. Previously, I worked as a **Postdoctoral Research Associate** in the *Trustworthy Autonomous Cyber-Physical Systems (TACPS) Lab* at the University of Liverpool, supervised by Prof. Xiaowei Huang. I obtained my **PhD in Artificial Intelligence** at Lancaster University, supervised by Dr. Wenjie Ruan, Dr. Leandro Soriano Marcolino, and Prof. Qiang Ni.  
+I am a Lecturer (Assistant Professor) in the Department of Computer Science at the University of Exeter. Previously, I worked as a Postdoctoral Research Associate in the *Trustworthy Autonomous Cyber-Physical Systems (TACPS) Lab* at the University of Liverpool, supervised by Prof. Xiaowei Huang. I obtained my PhD in Artificial Intelligence at Lancaster University, supervised by Dr. Wenjie Ruan, Dr. Leandro Soriano Marcolino, and Prof. Qiang Ni.  
 
 My research focuses on the **robustness evaluation of Deep Neural Networks (DNNs)**, including:  
 - Safety testing for safety-critical systems  
 - Adversarial attacks and defenses  
 - Robustness verification  
-I have conducted robustness analysis across multiple modalities: **image classifiers, video recognition models, 3D point cloud models, reinforcement learning**, and **large language models (LLMs)**.
+I have conducted robustness analysis across multiple modalities: image classifiers, video recognition models, 3D point cloud models, reinforcement learning, and large language models (LLMs).
 ---
 
 ## 🎯 Research Aims
-- Advance the **robustness of deep learning systems**.  
-- Develop methods for **safety testing, adversarial defense, and robustness verification** in AI, including images, videos, reinforcement learning, large language models, and multimodal systems.  
-- Explore **cross-disciplinary applications** of reinforcement learning, including **protein design** and **electrical power systems**.  
+- Advance the robustness of deep learning systems.  
+- Develop methods for safety testing, adversarial defense, and robustness verification in AI, including images, videos, reinforcement learning, large language models, and multimodal systems.  
+- Explore cross-disciplinary applications of reinforcement learning, including protein design and electrical power systems.  
 
 ---
 
@@ -42,12 +42,12 @@ I am currently recruiting **new PhD candidates** with interests in the following
 ---
 
 ## 📰 News & Updates
-- **Sep 2025** – Awarded the **Individual Research Grant** from the **Royal Society**.  
+- **Sep 2025** – Awarded the Individual Research Grant from the Royal Society.  
 - **Aug 2025** – Congratulations to my PhD student *Zixia Wang*: *“Safety of Embodied Navigation: A Survey”* accepted at *IJCAI 2025*.  
 - **Aug 2025** – Our survey *“Safeguarding Large Language Models: A Survey”* accepted by *Artificial Intelligence Review*.  
 - **Apr 2025** – Paper accepted by *IEEE TIFS*. Kudos to all co-authors.  
 - **Jan 2025** – Paper accepted by *ICLR*. Kudos to all co-authors.  
-- **Aug 2024** – Started my position as **Lecturer (Assistant Professor)** at the University of Exeter.  
+- **Aug 2024** – Started my position as Lecturer (Assistant Professor) at the University of Exeter.  
 
 ---
 
