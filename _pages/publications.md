@@ -4,7 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-** Publication lists stop updated here. Please refer to https://scholar.google.com/citations?user=td_ct8MAAAAJ&hl=en **
+
+
+**📮Publication lists stop updated here. Please refer to https://scholar.google.com/citations?user=td_ct8MAAAAJ&hl=en**
+
+
 * "[Position: Building Guardrails for Large Language Models Requires Systematic Design](https://openreview.net/forum?id=JvMLkGF2Ms)" Yi Dong^*, **Ronghui Mu^***, Gaojie Jin, Yi Qi, Jinwei Hu, Xingyu Zhao, Jie Meng, Wenjie Ruan, Xiaowei Huang, *In preceeding of Forty-first International Conference on Machine Learning (ICML 2024)*
   
 * "[Reward Certification for Policy Smoothed Reinforcement Learning](https://ojs.aaai.org/index.php/AAAI/article/view/26756)" **Ronghui Mu**, Wenjie Ruan, Leandro Soriano Marcolino, Gaojie Jin, Qiang Ni, *In preceeding of AAAI 2024*
