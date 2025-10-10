@@ -47,6 +47,8 @@ I am currently recruiting **new PhD candidates** with interests in the following
 
 📧 If you are interested, please [contact me via email](mailto:carolinemu96@yahoo.com).
 
+**💪 PhD students will also join our [TurGreen AI Lab](https://trugreen-ai-lab.github.io/TruGreen-AI-Lab/#/), with full support from all Principal Investigators**
+
 
 ## 💡 Funding Opportunities for Students/Researchers
 - [CSC–University of Exeter PhD Scholarships](https://www.exeter.ac.uk/study/pg-research/csc-scholarships/)  
