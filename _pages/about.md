@@ -30,6 +30,7 @@ I have conducted robustness analysis across multiple modalities: image classifie
 ---
 
 ## 📰 News & Updates
+- **Nov 2025**- Congratulations to my PhD student *Zixia Wang*: *“CluCERT: Certifying LLM Robustness via Clustering-Guided Denoising Smoothing”* accepted at *AAAI 2025*
 - **Sep 2025** – Awarded the Individual Research Grant from the Royal Society.  
 - **Aug 2025** – Congratulations to my PhD student *Zixia Wang*: *“Safety of Embodied Navigation: A Survey”* accepted at *IJCAI 2025*.  
 - **Aug 2025** – Our survey *“Safeguarding Large Language Models: A Survey”* accepted by *Artificial Intelligence Review*.  
