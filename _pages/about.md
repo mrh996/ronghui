@@ -33,8 +33,8 @@ I have conducted robustness analysis across multiple modalities: image classifie
 - **Sep 2026** - Our paper *"Interpretable but Fragile? Robustness of Concept Bottlenecks under Geometric-Semantic Perturbations"* is accepted by *NeurIPS 2026*. Congrats to all collaborators. 
 - **Apr 2026** - Paper *"A Unified Red Teaming Framework for Reasoning-Level Denial-of-Service in LLM Agents"* is accepted by *ICML 2026*. Congrats to all co-authors
 - **Mar 2026** - Paper *“Confusion-Aware Spectral Regularizer for Long-Tailed Recognitionaccepted”* is accepted by *CVPR 2026* (oral). Congrats to all co-authors
-- **Nov 2025** - : Our paper *“CluCERT: Certifying LLM Robustness via Clustering-Guided Denoising Smoothing”* is accepted at *AAAI 2025*(oral)
-- **Sep 2025** – Awarded the Individual Research Grant from the Royal Society.  Congratulations to *Zixia Wang*.
+- **Nov 2025** - : Our paper *“CluCERT: Certifying LLM Robustness via Clustering-Guided Denoising Smoothing”* is accepted at *AAAI 2025*(oral). Congratulations to *Zixia Wang*.
+- **Sep 2025** – I am warded the Individual Research Grant from the Royal Society. 
 - **Aug 2025** – : Our paper *“Safety of Embodied Navigation: A Survey”* is accepted at *IJCAI 2025*.  Congratulations to *Zixia Wang*.
 - **Aug 2025** – Our survey *“Safeguarding Large Language Models: A Survey”* accepted by *Artificial Intelligence Review*.  
 - **Apr 2025** – Paper accepted by *IEEE TIFS*. Congrats to all co-authors.  
